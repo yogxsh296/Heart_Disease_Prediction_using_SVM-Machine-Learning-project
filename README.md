@@ -24,7 +24,7 @@ To run the project, you can use the following command:
 
 1. After installing the dependencies, you can clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/Muhammad-Talha4k/Heart-Disease-Prediction.git
+   git clone https://github.com/yogxsh296/Heart_Disease_Prediction_using_SVM-Machine-Learning-project.git
 
    This notebook contain the code and explanation of the task.
 
